@@ -212,7 +212,7 @@ export default function Home() {
           </span>
 
           <h1>
-            Shop Smart.
+            Snap mart.
             <br />
             Live Better.
           </h1>
